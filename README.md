@@ -1,6 +1,6 @@
 - 👋 Hi,I'm Amit Kumar Srivastava, 
-- 👀 I’m interested in the domain of Computer Vision, Robot and Self driving car engioneering and R&D
-- 🌱 I’m currently learning Self Driving Car Engineering 
+- 👀 I’m interested in the domain of Computer Vision, Robot and Self driving car engineering and R&D
+- 🌱 I’m currently working in  Self Driving Car Engineering and Robot Operating System 
 - 💞️ I’m looking to collaborate on working in the Robot Perception, Planning and Control by simulation and visualization 
 - 📫 You can contact me through the email amitsri1983@gmail.com
 
